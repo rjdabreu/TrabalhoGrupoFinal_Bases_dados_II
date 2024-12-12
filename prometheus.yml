@@ -1,0 +1,6 @@
+#No arquivo de configuração do Prometheus (prometheus.yml), adicione o endereço do sistema Flask como alvo:
+
+scrape_configs:
+  - job_name: 'flask_app'
+    static_configs:
+      - targets: ['localhost:5000']  # Porta onde a aplicação Flask está a rodar

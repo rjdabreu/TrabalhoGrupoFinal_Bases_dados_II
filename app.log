@@ -1,0 +1,26 @@
+2024-12-12 16:21:48,990 WARNING  * Debugger is active!
+2024-12-12 16:21:48,993 INFO  * Debugger PIN: 614-259-650
+2024-12-12 16:21:54,401 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-12 16:21:54,402 INFO [33mPress CTRL+C to quit[0m
+2024-12-12 16:21:54,402 INFO  * Restarting with stat
+2024-12-12 16:21:55,122 WARNING  * Debugger is active!
+2024-12-12 16:21:55,124 INFO  * Debugger PIN: 614-259-650
+2024-12-12 16:23:14,019 INFO 127.0.0.1 - - [12/Dec/2024 16:23:14] "POST /login HTTP/1.1" 200 -
+2024-12-12 16:23:17,114 INFO 127.0.0.1 - - [12/Dec/2024 16:23:17] "GET /books HTTP/1.1" 200 -
+2024-12-12 16:23:19,307 INFO 127.0.0.1 - - [12/Dec/2024 16:23:19] "GET /books HTTP/1.1" 200 -
+2024-12-12 16:23:21,132 INFO 127.0.0.1 - - [12/Dec/2024 16:23:21] "GET /users HTTP/1.1" 200 -
+2024-12-12 16:23:22,329 INFO 127.0.0.1 - - [12/Dec/2024 16:23:22] "GET /users HTTP/1.1" 200 -
+2024-12-12 16:23:39,217 INFO 127.0.0.1 - - [12/Dec/2024 16:23:39] "GET /external-books?query=harry+potter HTTP/1.1" 200 -
+2024-12-12 16:26:35,799 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-12 16:26:35,799 INFO [33mPress CTRL+C to quit[0m
+2024-12-12 16:26:35,800 INFO  * Restarting with stat
+2024-12-12 16:26:36,486 WARNING  * Debugger is active!
+2024-12-12 16:26:36,488 INFO  * Debugger PIN: 614-259-650
+2024-12-12 16:32:26,250 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-12 16:32:26,250 INFO [33mPress CTRL+C to quit[0m
+2024-12-12 16:32:26,251 INFO  * Restarting with stat
+2024-12-12 16:32:27,598 WARNING  * Debugger is active!
+2024-12-12 16:32:27,601 INFO  * Debugger PIN: 614-259-650
