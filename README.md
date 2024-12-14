@@ -17,7 +17,7 @@
 
 ## Descrição
 
-O Sistema de Gestão de Biblioteca é uma aplicação que permite a gestão de livros, usuários, empréstimos e relatórios de atividades. 
+O Sistema de Gestão de Biblioteca é uma aplicação que permite a gestão de livros, utilizadores, empréstimos e relatórios de atividades. 
 O sistema integra ferramentas modernas para monitorização (Prometheus) e centralização de logs (Elastic Stack).
 
 ---
